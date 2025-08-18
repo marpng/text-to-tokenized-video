@@ -1,0 +1,5 @@
+.idea/
+build/
+text_to_tokenized_video.egg-info/
+**/__pycache__/
+.env
